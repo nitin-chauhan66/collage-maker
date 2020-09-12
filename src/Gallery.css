@@ -1,0 +1,15 @@
+.gallery {
+    height: 600px;
+    width: auto;
+    
+}
+
+.gallery__image {
+ object-fit: contain; 
+ width: 100%;   
+ padding-bottom: 10px;
+}
+.gallery__container {
+    overflow: scroll;
+    height:500px;
+}

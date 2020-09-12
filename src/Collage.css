@@ -1,0 +1,11 @@
+.collage {
+    height: 600px;
+    width: auto;
+    padding: 10px;
+}
+
+.collage__canvas {
+    overflow: hidden;
+    box-sizing: border-box;
+    border-color: black;
+}
