@@ -8,7 +8,7 @@ const ACTIONS = {
     ERROR:"ERROR"
 }
 
-const BASE_URL = "http://jsonplaceholder.typicode.com/photos";
+const BASE_URL = "https://cors-anywhere.herokuapp.com/http://jsonplaceholder.typicode.com/photos";
 function reducer(state,action){
     switch (action.type) {
         case ACTIONS.MAKE_REQUEST:
