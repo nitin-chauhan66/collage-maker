@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a32735e85eb1aa6c24b475e441b4d5fd",
+    "revision": "d4a17a6f022a4c728ea824c4749c02d1",
     "url": "/collage-maker/index.html"
   },
   {
-    "revision": "4016e97b47377c890df1",
+    "revision": "0c8490531457bb4075c6",
     "url": "/collage-maker/static/css/main.d4f470c0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/collage-maker/static/js/2.d3701788.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4016e97b47377c890df1",
-    "url": "/collage-maker/static/js/main.8762385f.chunk.js"
+    "revision": "0c8490531457bb4075c6",
+    "url": "/collage-maker/static/js/main.936ea049.chunk.js"
   },
   {
     "revision": "29ba149276a489688739",
