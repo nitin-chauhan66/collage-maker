@@ -20,13 +20,12 @@ export default function Gallery({images,pending,error,dragFunc,refresh,clickHand
             </Spinner>):images.map(image=>{
                    return (
                        <Col sm="6" key={image.id}>
-                       <img src={'https://cors-anywhere.herokuapp.com/'+image.url}
+                       <img src={image.url}
                        className="gallery__image"  
                        id ={image.id} 
                        onDragStart={(event)=>dragFunc(event)} 
                        draggable={true}
                        onClick={clickHandler}
-                       crossOrigin={'anonymous'}
                        />
                        </Col>
                    )
