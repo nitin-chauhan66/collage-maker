@@ -10,7 +10,6 @@ export default function Collage({drop,allowDrag}){
        collage.canvas.clear();
     }
     function saveImage(e){
-        collage.canvas.setBackgrount('transparent')
         const url = collage.canvas.toDataURL({
             format: 'jpeg',
             quality: 1
