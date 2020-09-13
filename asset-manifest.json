@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/collage-maker/static/css/main.d4f470c0.chunk.css",
+    "main.js": "/collage-maker/static/js/main.ac6a5763.chunk.js",
+    "main.js.map": "/collage-maker/static/js/main.ac6a5763.chunk.js.map",
+    "runtime-main.js": "/collage-maker/static/js/runtime-main.a1106779.js",
+    "runtime-main.js.map": "/collage-maker/static/js/runtime-main.a1106779.js.map",
+    "static/js/2.d3701788.chunk.js": "/collage-maker/static/js/2.d3701788.chunk.js",
+    "static/js/2.d3701788.chunk.js.map": "/collage-maker/static/js/2.d3701788.chunk.js.map",
+    "index.html": "/collage-maker/index.html",
+    "precache-manifest.cdb9da516d4391fd1954a5fecd8d31c5.js": "/collage-maker/precache-manifest.cdb9da516d4391fd1954a5fecd8d31c5.js",
+    "service-worker.js": "/collage-maker/service-worker.js",
+    "static/css/main.d4f470c0.chunk.css.map": "/collage-maker/static/css/main.d4f470c0.chunk.css.map",
+    "static/js/2.d3701788.chunk.js.LICENSE.txt": "/collage-maker/static/js/2.d3701788.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1106779.js",
+    "static/js/2.d3701788.chunk.js",
+    "static/css/main.d4f470c0.chunk.css",
+    "static/js/main.ac6a5763.chunk.js"
+  ]
+}
